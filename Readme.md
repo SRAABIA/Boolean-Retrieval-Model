@@ -54,3 +54,8 @@ The GUI for this project is created using Tkinter. It provides a user-friendly i
 - Test Case 7:&nbsp; Proximity query:  overview / historical (proximity 2)
 - Test Case 8:&nbsp; Proximity query: abstract / number (proximity 3)
 <br>(don't forget to add / )
+
+## Output
+
+![Boolean Query](/img/p1.png)
+![Proximity Query](/img/p2.png)

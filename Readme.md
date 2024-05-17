@@ -1,4 +1,4 @@
-# Information Retrieval
+# Boolean Information Retrieval Model
 
 _K214553 Syeda Rabia Hashmi_
 ## Introduction
